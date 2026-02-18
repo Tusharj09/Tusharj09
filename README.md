@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tushar Jaiswal 
-- 👀 A Programming Geek who does programming in C++, Java and have a interest towards web development...
-- 🌱 I’m currently learning javascript, DSA and recently completed Google Coud :Associate Cloud Engineer Certification ...
+- 👋 Hi, I’m Tushar Jaiswal
+- 👀 A Programming Geek who does programming in Java and have an experience as Java Developer
+- 🌱 I’m currently learning react, System Design and DSA.
 - 💞️ I’m looking to collaborate on Web developments projects and want to learn new technologies ...
-- 📫 You can reach me  at https://www.linkedin.com/in/tusharj09/ or email me at tusharjaiswal975@gmail.com..    .... HAPPY CODING!!! :)
+- 📫 You can reach me  at www.linkedin.com/in/tushar-jaiswal-software-developer or email me at tusharjaiswal975@gmail.com..    .... HAPPY CODING!!! :)
 - 
 
 <!---
